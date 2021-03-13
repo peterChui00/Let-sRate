@@ -3,7 +3,7 @@ College project: A simple movie rating website which allows you to rate and view
 
 # Installation
 Create a MySQL database for the website by referring to the database_dump.sql.
-Put all the images of moive into a "image" file and named with number. 
+Put all the images of moive into a "image" folder and named with number. 
 Open the index.php with web browser.
 
 # Features
