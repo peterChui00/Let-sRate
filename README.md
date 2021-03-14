@@ -20,20 +20,20 @@ all the right of anonymous user, rate movies, comment movies
 *A user can only rate a particular movie once, and cannot change the rating afterwards
 
 Navigation bar:
-Home - Home page of the website
-All movies - List of movies
-Register - Register form
-Login - Login form
-Logout - Logout (only occur when user logged in)
-Search - Case-insensitive search function (keywords typed by user will be searched by title, description, genre, director, starring, language, running time and releasedate)
+* Home - Home page of the website
+* All movies - List of movies
+* Register - Register form
+* Login - Login form
+* Logout - Logout (only occur when user logged in)
+* Search - Case-insensitive search function (keywords typed by user will be searched by title, description, genre, director, starring, language, running time and releasedate)
 
 List of movies only show parts of the detail of a movies and 'View/Rate' button.
 'View/Rate' button - redirect to the detail page of the movie.
 
 Detail page of the movies:
-The page include all the details of the movie, average score, comments.
-Rate function - click the star button to represent intended score (1 to 5, where 1 is lowest, 5 is highest).
-Comment function - type the comment in the text area.
+* The page include all the details of the movie, average score, comments.
+* Rate function - click the star button to represent intended score (1 to 5, where 1 is lowest, 5 is highest).
+* Comment function - type the comment in the text area.
 
 # Built With
 HTML, CSS, JavaScript, PHP, MySQL Database, Bootstrap
